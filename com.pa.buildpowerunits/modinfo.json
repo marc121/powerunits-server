@@ -1,0 +1,24 @@
+{
+    "enabled": true,
+    "context": "server",
+    "identifier": "com.pa.buildpowerunits",
+    "display_name": "powerunits ll",
+    "description": "baue einheiten um speicher und energie/metal zu bekommen / build units for eco and storage",
+    "author": "startege1",
+    "version": "1.00",
+    "build": "80187",
+    "date": "2015/07/12",
+    "signature": "not yet implemented",
+    "forum": "",
+    "category": [
+        "server-mod",
+        "units",
+        "game-mode"
+    ],
+    "id": "",
+    "icon": "",
+    "priority": 7,
+	"dependencies": [
+        "com.pa.buildpowerunits_UI"
+  ]
+}
