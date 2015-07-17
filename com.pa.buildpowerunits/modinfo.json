@@ -20,6 +20,6 @@
     "icon": "",
     "priority": 7,
 	"dependencies": [
-        "com.pa.buildpowerunits_UI"
+        "",
   ]
 }
