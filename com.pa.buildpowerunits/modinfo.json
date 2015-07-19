@@ -5,7 +5,7 @@
     "display_name": "powerunits",
     "description": "Build Units for metal and energy (and storage)",
     "author": "startege1",
-    "version": "1.02",
+    "version": "1.1",
     "build": "83796",
     "date": "2015/07/17",
     "signature": "not yet implemented",
@@ -18,7 +18,8 @@
     ],
     "id": "",
     "icon": "",
-    "priority": 7
+    "priority": 7,
+	"dependencies": ["com.pa.buildpowerunits_UI"]
 	
 }
 
