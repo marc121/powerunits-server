@@ -10,6 +10,8 @@ function BuildHotkeyModel() {
 			"/pa/units/land/control_module/control_module.json": ["utility", 1],
 			"/pa/units/orbital/deep_space_radar/deep_space_radar.json": ["utility", 12],
 			"/pa/units/orbital/delta_v_engine/delta_v_engine.json": ["utility", 6],
+			"/pa/units/land/druhe/superdruhe.json": ["utility", 5,],
+			"/pa/units/land/radar_adv/radar_adv.json": ["utility", 2],
 									
 			"/pa/units/sea/naval_factory_adv/naval_factory_adv.json": ["factory", 6],           
             "/pa/units/air/air_factory_adv/air_factory_adv.json": ["factory", 7],
@@ -60,7 +62,9 @@ function BuildHotkeyModel() {
 			"/pa/units/land/com.antinuke/imperial_invictus/imperial_invictus.json": ["nw", 10],
 			
 			"/pa/units/land/artillery_short/artillery_short.json": ["combat", 12],
+			"/pa/units/land/laser_defense_adv/laser_defense_adv.json": ["combat", 0],
 			"/pa/units/land/laser_defense/laser_defense.json": ["combat", 5],
+			"/pa/units/land/laser_defense_single/laser_defense_single.json": ["combat", 10],
 			"/pa/units/land/air_defense/air_defense.json": ["combat", 11],
 			"/pa/units/land/nuke_launcher/nuke_launcher.json": ["combat", 4],
             "/pa/units/land/anti_nuke_launcher/anti_nuke_launcher.json": ["combat", 9], 
