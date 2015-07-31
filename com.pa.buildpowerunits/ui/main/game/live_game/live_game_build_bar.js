@@ -54,8 +54,7 @@ $(document).ready(function () {
             new BuildTab('sea', '!LOC(live_game_build_bar:sea.message):sea'),
             new BuildTab('orbital', '!LOC(live_game_build_bar:orbital.message):orbital'),
             new BuildTab('ammo', '!LOC(live_game_build_bar:ammo.message):ammo'),
-			new BuildTab('nw', '!LOC(nw):nw'),
-			new BuildTab('nuke', '!LOC(nuke):nuke')
+			new BuildTab('nw', '!LOC(nw):nw')
         ]);
         var tabOrder = _.invert([
             'factory',
@@ -67,8 +66,7 @@ $(document).ready(function () {
             'sea',
             'orbital',
             'ammo',
-			'nw',
-			'nuke'
+			'nw'
         ]);
         var maxIndex = 0;
         _.forIn(grid, function(tabInfo, spec) {

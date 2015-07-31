@@ -10,7 +10,7 @@ function BuildHotkeyModel() {
 			"/pa/units/land/control_module/control_module.json": ["utility", 1],
 			"/pa/units/orbital/deep_space_radar/deep_space_radar.json": ["utility", 12],
 			"/pa/units/orbital/delta_v_engine/delta_v_engine.json": ["utility", 6],
-			
+			"/pa/units/land/druhe/superdruhe.json": ["utility", 5,],
 			"/pa/units/land/radar_adv/radar_adv.json": ["utility", 2],
 									
 			"/pa/units/sea/naval_factory_adv/naval_factory_adv.json": ["factory", 6],           
@@ -70,9 +70,6 @@ function BuildHotkeyModel() {
             "/pa/units/land/anti_nuke_launcher/anti_nuke_launcher.json": ["combat", 9], 
 			"/pa/units/orbital/ion_defense/ion_defense.json": ["combat", 14],
 			"/pa/units/land/air_defense_adv/air_defense_adv.json": ["combat", 6],
-			"/pa/units/land/artillery_heal/artillery_heal.json": ["combat", 1],
-			"/pa/units/land/artillery_long/artillery_long.json": ["combat", 7],
-			"/pa/units/land/artillery_long_heal/artillery_long_heal.json": ["combat", 2],
 			
 			"/pa/units/air/fabrication_aircraft_adv/fabrication_aircraft_adv.json": ["air", 5],
             "/pa/units/air/fighter_adv/fighter_adv.json": ["air", 6],
@@ -104,8 +101,7 @@ function BuildHotkeyModel() {
             "/pa/units/sea/sea_scout/sea_scout.json": ["sea", 14],
 			
 			"/pa/units/land/anti_nuke_launcher/anti_nuke_launcher_ammo.json": ["ammo", 13],
-            "/pa/units/land/nuke_launcher/nuke_launcher_ammo.json": ["ammo", 14],
-			"/pa/units/land/nuke_launcher/nuke_ammo.json": ["ammo", 13]		
+            "/pa/units/land/nuke_launcher/nuke_launcher_ammo.json": ["ammo", 14],		
 		}   
     );
 };
