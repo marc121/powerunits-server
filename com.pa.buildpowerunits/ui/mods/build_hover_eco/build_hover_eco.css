@@ -1,0 +1,15 @@
+.stat.net_metal {
+  background: url(coui://ui/main/game/live_game/img/status_bar/icon-status-metal.png) center left no-repeat;
+  background-position-y: 5px;
+  background-size: 12px auto;
+  margin-top: -1px;
+  padding: 1px 0px 0px 14px;
+}
+
+.stat.net_energy {
+  background: url(coui://ui/main/game/live_game/img/status_bar/icon-status-energy.png) center left no-repeat;
+  background-position-y: 5px;
+  background-size: 8px auto;
+  margin-top: -1px;
+  padding: 1px 0px 0px 12px;
+}
