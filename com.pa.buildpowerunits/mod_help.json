@@ -1,0 +1,9 @@
+{
+  "announcement": "Server mods may have help articles.  UI refresh (F5 default) if you don't see the Guide button below.",
+  "articles": {
+    "Powerunits (Server)": "coui://ui/mods/mod_help_player_guide/article/mod_help_player_guide.html"
+  },
+  "topics": {
+    "Powerunits (Server)": "Server mods may have help articles.  UI refresh (F5 default) if you don't see the Guide button below."
+  }
+}
