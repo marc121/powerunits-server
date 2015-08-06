@@ -7,6 +7,7 @@ function BuildHotkeyModel() {
 			"/pa/units/land/teleporter/teleporter.json": ["utility", 10],
 			"/pa/units/land/radar/radar.json": ["utility", 7], 
 			"/pa/units/land/land_barrier/land_barrier.json": ["utility", 11],
+			"/pa/units/land/land_barrier_adv/land_barrier_adv.json": ["utility", 13],
 			"/pa/units/land/control_module/control_module.json": ["utility", 1],
 			"/pa/units/orbital/deep_space_radar/deep_space_radar.json": ["utility", 12],
 			"/pa/units/orbital/delta_v_engine/delta_v_engine.json": ["utility", 6],
@@ -54,6 +55,7 @@ function BuildHotkeyModel() {
 			"/pa/units/land/bot_sniper_klein/bot_sniper1.json": ["ammo", 8],
 			"/pa/units/land/bot_tactical_orbital/bot_tactical_orbital.json": ["ammo", 6],
 			"/pa/units/land/tank_heavy_mortar_klein/tank_heavy_mortar_klein.json": ["ammo", 5],
+			"/pa/units/land/bot_bomb_adv/bot_bomb_adv.json": ["ammo", 12],
 			
 			"/pa/units/land/com.uni/quad_theflax/quad_theflax.json": ["nw", 7],
 			"/pa/units/land/com.snip/quad_raventhornn/quad_raventhornn.json": ["nw", 6],
